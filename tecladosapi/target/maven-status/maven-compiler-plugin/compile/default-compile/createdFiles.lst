@@ -1,0 +1,8 @@
+mx\unam\aragon\ico\is\tecladosapi\controllers\TecladoRestController.class
+mx\unam\aragon\ico\is\tecladosapi\services\interfaces\TecladoService.class
+mx\unam\aragon\ico\is\tecladosapi\exceptions\ManejadorGlobalExcepciones.class
+mx\unam\aragon\ico\is\tecladosapi\registrosDePrueba\datosPrecargados.class
+mx\unam\aragon\ico\is\tecladosapi\services\TecladoServiceImpl.class
+mx\unam\aragon\ico\is\tecladosapi\entities\Teclado.class
+mx\unam\aragon\ico\is\tecladosapi\repositories\TecladoRepository.class
+mx\unam\aragon\ico\is\tecladosapi\TecladosapiApplication.class

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.005" tests="5" errors="0" skipped="5" failures="0">
+  <properties/>
+  <testcase name="insertarTeclado" classname="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.0">
+    <skipped message="class mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests is @Disabled"/>
+  </testcase>
+  <testcase name="leerTecladoporclave" classname="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.0">
+    <skipped message="class mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests is @Disabled"/>
+  </testcase>
+  <testcase name="contextLoads" classname="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.0">
+    <skipped message="class mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests is @Disabled"/>
+  </testcase>
+  <testcase name="actualizarTeclado" classname="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.0">
+    <skipped message="class mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests is @Disabled"/>
+  </testcase>
+  <testcase name="eliminarTeclado" classname="mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests" time="0.0">
+    <skipped message="class mx.unam.aragon.ico.is.tecladosapi.TecladosapiApplicationTests is @Disabled"/>
+  </testcase>
+</testsuite>
